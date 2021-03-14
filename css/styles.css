@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+}
+
+.logo_menu{
+    background-color: #ddd;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 0px;
+    margin: 0px 0px;
+}
+
+.logo{
+    display: flex;
+    width: 700px;
+} 
+ul li{
+    font-size: 30px;
+    display: flex;
+    padding: 0px 100px 0px 0px;
+} 
+
+
+ul{
+    list-style-type: none;
+    align-items: center;
+    
+}
+
+
+
+
+
